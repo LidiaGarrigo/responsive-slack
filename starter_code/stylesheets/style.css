@@ -5,6 +5,7 @@ main-titles dark-grey: #2C303F;
 paragraph grey: #5b5e6d;
 nav grey: #5b5e6d;
 */
+
 *{
     margin: 0px;
     padding: 0px;
@@ -177,7 +178,7 @@ body {
 }
 
 
-
+/*
 @media (max-width: 961px > width > 767px) {
 
 }
@@ -185,6 +186,4 @@ body {
 
 }
 @media (max-width: 1200px) {
-
-    
 }
